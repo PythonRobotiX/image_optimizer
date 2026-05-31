@@ -1,0 +1,36 @@
+{
+  "baseName": "DSC_1120",
+  "variants": {
+    "400": {
+      "webp": "/output/DSC_1120/DSC_1120-400.webp",
+      "avif": "/output/DSC_1120/DSC_1120-400.avif"
+    },
+    "480": {
+      "webp": "/output/DSC_1120/DSC_1120-480.webp",
+      "avif": "/output/DSC_1120/DSC_1120-480.avif"
+    },
+    "768": {
+      "webp": "/output/DSC_1120/DSC_1120-768.webp",
+      "avif": "/output/DSC_1120/DSC_1120-768.avif"
+    },
+    "1280": {
+      "webp": "/output/DSC_1120/DSC_1120-1280.webp",
+      "avif": "/output/DSC_1120/DSC_1120-1280.avif"
+    },
+    "1920": {
+      "webp": "/output/DSC_1120/DSC_1120-1920.webp",
+      "avif": "/output/DSC_1120/DSC_1120-1920.avif"
+    },
+    "2560": {
+      "webp": "/output/DSC_1120/DSC_1120-2560.webp",
+      "avif": "/output/DSC_1120/DSC_1120-2560.avif"
+    },
+    "3840": {
+      "webp": "/output/DSC_1120/DSC_1120-3840.webp",
+      "avif": "/output/DSC_1120/DSC_1120-3840.avif"
+    }
+  },
+  "aspect": "16:9",
+  "width": 5568,
+  "height": 3712
+}

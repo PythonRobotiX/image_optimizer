@@ -1,0 +1,26 @@
+{
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "dist/index.js",
+
+  "bin": {
+    "imgopt": "dist/cli/optimize.js"
+  },
+
+  "scripts": {
+    "build": "tsc",
+    "optimize": "ts-node src/cli/optimize.ts",
+    "optimize:dist": "node dist/cli/optimize.js",
+    "prepare": "npm run build"
+  },
+
+  "dependencies": {
+    "sharp": "^0.33.0"
+  },
+
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
